@@ -1,0 +1,26 @@
+#clickme{
+    width: 100px;
+    height: 100px;
+    background: #000000;
+    color: beige;
+    display: none;
+    position: relative;
+    top: 50px;
+    left: 100px;
+    
+}
+#gameboard{
+    margin-top: 10px; 
+    background: #ccc;
+    border: 1px solid black;
+    height: 600px;
+    text-align: center;
+}
+#scoreinfo{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 30px;
+}
+.btn-primary{
+    margin-top: 40px;
+}
